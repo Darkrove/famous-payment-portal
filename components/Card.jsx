@@ -14,7 +14,7 @@ import { FaLock } from "react-icons/fa";
 import thumb from "../assets/SUITCASE.png";
 
 const stripePromise = loadStripe(
-  process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY_TEST
+  process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY_LIVE
 );
 
 export default function Card() {
