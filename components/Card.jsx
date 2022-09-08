@@ -3,7 +3,6 @@ import { useRouter } from "next/router";
 import React from "react";
 import { loadStripe } from "@stripe/stripe-js";
 import axios from "axios";
-import jquery from "jquery";
 
 import { BsShieldFillCheck } from "react-icons/bs";
 import { SiPaytm, SiAmazonpay } from "react-icons/si";
@@ -250,7 +249,7 @@ export default function Card() {
             </div>
           </div>
           <h3 className="text-sm m-2 font-medium text-gray-300">
-            Powered by
+            made by
             <a
               href="https://www.instagram.com/sajjadshaikh.io/"
               target="_blank"
@@ -258,7 +257,7 @@ export default function Card() {
               rel="noopener noreferrer"
             >
               {" "}
-              @DARKTECH
+              @DARKROVE
             </a>
           </h3>
         </div>
