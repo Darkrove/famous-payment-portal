@@ -1,3 +1,17 @@
+
+# Payment Portal
+
+A gateway for accepting card using stripe integration and NextJS.
+
+![Logo](https://blog.avneesh.tech/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1629208331557%2FiHUZ4KZbA.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75)
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/53792139/188835932-3c57137f-4c43-4af7-ad6f-ab80ffd45e53.png)
+![image](https://user-images.githubusercontent.com/53792139/188836132-8adad686-776b-4e02-996f-5c9412b47111.png)
+![image](https://user-images.githubusercontent.com/53792139/188836266-dff8d5ea-c48b-491a-bb2e-fdcd53b82548.png)
+![image](https://user-images.githubusercontent.com/53792139/188836484-17ffb449-7063-4416-8d08-7650089ab275.png)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
